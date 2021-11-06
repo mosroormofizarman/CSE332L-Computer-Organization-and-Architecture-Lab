@@ -1,1 +1,1 @@
-# CSE332-Computer-Organization-and-Architecture
+# CSE332L-Computer-Organization-and-Architecture-Lab
